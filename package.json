@@ -1,0 +1,27 @@
+{
+  "name": "100k_stars",
+  "version": "0.0.1",
+  "description": "Submission for the March 2018 /r/dataisbeautiful challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson428/100K_stars.git"
+  },
+  "keywords": [
+    "stars",
+    "dataviz",
+    "astronomy"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/100K_stars/issues"
+  },
+  "homepage": "https://github.com/wilson428/100K_stars#readme",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.11"
+  }
+}
